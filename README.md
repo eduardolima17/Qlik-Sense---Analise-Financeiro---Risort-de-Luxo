@@ -14,7 +14,6 @@ O gerente do hotel observou aumento nos custos operacionais e solicitou um **pai
 - Comparar o **crescimento de receitas vs despesas** ao longo dos anos.  
 - Identificar **quais áreas têm maior peso no custo total** (ex.: salários, marketing, manutenção).  
 - Analisar **quais receitas são mais lucrativas** (quartos, restaurantes, eventos etc.).  
-- Simular cenários de aumento de custos e impacto na **margem de lucro**.
 
 ---
 
