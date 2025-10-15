@@ -4,7 +4,7 @@
 <img width='950' height='500' src="https://github.com/eduardolima17/Qlik-Sense---Analise-Financeiro---Risort-de-Luxo/blob/main/Painel.png"/>
 
 ## 📘 Descrição do Projeto
-Este projeto tem como objetivo analisar as **receitas e despesas** do *Hotel beOcean*, um resort de luxo em São Miguel do Gostoso (RN), utilizando o **Qlik Sense** como ferramenta de Business Intelligence.
+Este projeto tem como objetivo analisar as **receitas e despesas** de um *Resort de Luxo*, em São Miguel do Gostoso (RN), utilizando o **Qlik Sense** como ferramenta de Business Intelligence.
 
 O gerente do hotel observou aumento nos custos operacionais e solicitou um **painel financeiro** que permitisse monitorar a lucratividade e identificar oportunidades de melhoria.
 
