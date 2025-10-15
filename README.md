@@ -34,8 +34,8 @@ O gerente do hotel observou aumento nos custos operacionais e solicitou um **pai
 
 ## 📊 Resultados e Insights
 - As despesas cresceram mais rápido que as receitas em determinados períodos.  
-- O custo de **salários** e **marketing** representou a maior parte das despesas.  
-- As **diárias e eventos** são as principais fontes de receita do hotel.  
+- O custo de **salários, públicidade, diversas e manutenção** representou a maior parte das despesas.  
+- As **Quarto de Luxo, Restaurante, Quarto com Suíte e Hospedagem de eventos** são as principais fontes de receita do hotel.  
 - O painel permitiu visualizar a **margem de lucro por temporada** e detectar períodos críticos.
 
 ---
