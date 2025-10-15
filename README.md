@@ -1,0 +1,1 @@
+# Qlik-Sense---Analise-Financeiro---Risort-de-Luxo
