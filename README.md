@@ -27,7 +27,7 @@ O gerente do hotel observou aumento nos custos operacionais e solicitou um **pai
 3. **Construção de visualizações:**
    - Gráfico de linhas: evolução de receitas e despesas por ano.  
    - Gráfico de barras: distribuição de custos por área.  
-   - Gráfico de pizza: participação das receitas por categoria.  
+   - Gráfico de rosca: participação das receitas por temporada.  
    - KPIs: Receita, Despesa, Lucro e Margem de Lucro.
 
 ---
